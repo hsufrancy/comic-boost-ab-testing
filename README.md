@@ -1,5 +1,7 @@
 # ComicBoost: A/B Testing and Feature Analysis for User Engagement
 
+![Design with diffent texts of the button](images/ab_test_design.png)
+
 This project aims to evaluate a new app feature’s impact on user engagement by designing and analyzing an A/B test. The analysis incorporates statistical methods and machine learning techniques to derive actionable insights for product improvement.
 
 ## Project Overview
